@@ -3,7 +3,7 @@
   "menuBackgroundImage": "https://static.wikia.nocookie.net/duelmastersplays/images/3/36/Duel_Masters_PLAY%27S_Visual_Custom.png/revision/latest/scale-to-width-down/1000?cb=20220406063103",
 
   "cards": {
-    "dataUrl": "https://raw.githubusercontent.com/alotox5-oss/Duel-Masters-TCGA/main/CardList%20(6).json",
+    "dataUrl": "https://raw.ghttps://github.com/alotox5-oss/Duel-Masters-TCGA/blob/main/CardList%20(6).json,
     "cardBack": "https://upload.wikimedia.org/wikipedia/en/thumb/b/b2/Duel_Masters_cardback.jpg/250px-Duel_Masters_cardback.jpg"
   },
 
