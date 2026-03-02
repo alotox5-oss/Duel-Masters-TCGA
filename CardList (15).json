@@ -1,0 +1,1493 @@
+{
+  "Dm01 001": {
+    "id": "Dm01 001",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "",
+        "type": "Creatures",
+        "cost": "7",
+        "image": "https://img.duelmasters.us/0001.webp",
+        "isHorizontal": false
+      }
+    },
+    "name": "Hanusa, Radiance Elemental",
+    "type": "Creatures",
+    "cost": "7"
+  },
+  "Dm01 002": {
+    "id": "Dm01 002",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "",
+        "type": "Creatures",
+        "cost": "6",
+        "image": "https://img.duelmasters.us/0002.webp",
+        "isHorizontal": false
+      }
+    },
+    "name": "Urth, Purifying Elemental",
+    "type": "Creatures",
+    "cost": "6"
+  },
+  "Dm01 003": {
+    "id": "Dm01 003",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "",
+        "type": "Creatures",
+        "cost": "8",
+        "image": "https://img.duelmasters.us/0003.webp",
+        "isHorizontal": false
+      }
+    },
+    "name": "Aqua Sniper",
+    "type": "Creatures",
+    "cost": 0
+  },
+  "Dm01 004": {
+    "id": "Dm01 004",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "",
+        "type": "Creatures",
+        "cost": "7",
+        "image": "https://img.duelmasters.us/0004.webp",
+        "isHorizontal": false
+      }
+    },
+    "name": "King Depthcon",
+    "type": "Creatures",
+    "cost": 0
+  },
+  "Dm01 005": {
+    "id": "Dm01 005",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "",
+        "type": "Creatures",
+        "cost": "7",
+        "image": "https://img.duelmasters.us/0005.webp",
+        "isHorizontal": false
+      }
+    },
+    "name": "Deathliger, Lion of Chaos",
+    "type": "Creatures",
+    "cost": 0
+  },
+  "Dm01 006": {
+    "id": "Dm01 006",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "",
+        "type": "Creatures",
+        "cost": "6",
+        "image": "https://img.duelmasters.us/0006.webp",
+        "isHorizontal": false
+      }
+    },
+    "name": "Zagaan, Knight of Darkness",
+    "type": "Creatures",
+    "cost": 0
+  },
+  "Dm01 007": {
+    "id": "Dm01 007",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "",
+        "type": "Creatures",
+        "cost": "7",
+        "image": "https://img.duelmasters.us/0007.webp",
+        "isHorizontal": false
+      }
+    },
+    "name": "Astrocomet Dragon",
+    "type": "Creatures",
+    "cost": 0
+  },
+  "Dm01 008": {
+    "id": "Dm01 008",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "",
+        "type": "Creatures",
+        "cost": "8",
+        "image": "https://img.duelmasters.us/0008.webp",
+        "isHorizontal": false
+      }
+    },
+    "name": "Scarlet Skyterror",
+    "type": "Creatures",
+    "cost": 0
+  },
+  "Dm01 009": {
+    "id": "Dm01 009",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "",
+        "type": "Creatures",
+        "cost": "5",
+        "image": "https://img.duelmasters.us/0009.webp",
+        "isHorizontal": false
+      }
+    },
+    "name": "Deathblade Beetle",
+    "type": "Creatures",
+    "cost": "5"
+  },
+  "Dm01 010": {
+    "id": "Dm01 010",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "",
+        "type": "Creatures",
+        "cost": "7",
+        "image": "https://img.duelmasters.us/0010.webp",
+        "isHorizontal": false
+      }
+    },
+    "name": "Roaring Great-Horn",
+    "type": "Creatures",
+    "cost": "7"
+  },
+  "Dm01 011": {
+    "id": "Dm01 011",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "",
+        "type": "Creatures",
+        "cost": "4",
+        "image": "https://img.duelmasters.us/0011.webp",
+        "isHorizontal": false
+      }
+    },
+    "name": "Chilias, the Oracle",
+    "type": "Evolution Creatures",
+    "cost": 0,
+    "Cost": ""
+  },
+  "Dm01 012": {
+    "id": "Dm01 012",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "",
+        "type": "Spell",
+        "cost": 0,
+        "image": "https://img.duelmasters.us/0012.webp",
+        "isHorizontal": false
+      }
+    },
+    "name": "Dia Nork, Moonlight Guardian",
+    "type": "Evolution Creatures",
+    "cost": 0,
+    "Cost": "",
+    "Civilisation": ""
+  },
+  "Dm01 013": {
+    "id": "Dm01 013",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "",
+        "type": "Spell",
+        "cost": 0,
+        "image": "https://img.duelmasters.us/0013.webp",
+        "isHorizontal": false
+      }
+    },
+    "name": "Emerald Grass",
+    "type": "Evolution Creatures",
+    "cost": 0,
+    "Cost": "",
+    "Civilisation": ""
+  },
+  "Dm01 014": {
+    "id": "Dm01 014",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "",
+        "type": "Spell",
+        "cost": 0,
+        "image": "https://img.duelmasters.us/0014.webp",
+        "isHorizontal": false
+      }
+    },
+    "name": "Frei, Vizier of Air",
+    "type": "Evolution Creatures",
+    "cost": 0,
+    "Cost": "",
+    "Civilisation": ""
+  },
+  "Dm01 015": {
+    "id": "Dm01 015",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "",
+        "type": "Spell",
+        "cost": 0,
+        "image": "https://img.duelmasters.us/0015.webp",
+        "isHorizontal": false
+      }
+    },
+    "name": "Gran Gure, Space Guardian",
+    "type": "Evolution Creatures",
+    "cost": 0,
+    "Cost": "",
+    "Civilisation": ""
+  },
+  "Dm01 016": {
+    "id": "Dm01 016",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "",
+        "type": "Spell",
+        "cost": 0,
+        "image": "https://img.duelmasters.us/0016.webp",
+        "isHorizontal": false
+      }
+    },
+    "name": "Holy Awe",
+    "type": "Evolution Creatures",
+    "cost": 0,
+    "Cost": "",
+    "Civilisation": ""
+  },
+  "Dm01 017": {
+    "id": "Dm01 017",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "",
+        "type": "Spell",
+        "cost": 0,
+        "image": "https://img.duelmasters.us/0017.webp",
+        "isHorizontal": false
+      }
+    },
+    "name": "Iere, Vizier of Bullets",
+    "type": "Evolution Creatures",
+    "cost": 0,
+    "Cost": "",
+    "Civilisation": ""
+  },
+  "Dm01 018": {
+    "id": "Dm01 018",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "",
+        "type": "Spell",
+        "cost": 0,
+        "image": "https://img.duelmasters.us/0018.webp",
+        "isHorizontal": false
+      }
+    },
+    "name": "Iocant, the Oracle",
+    "type": "Evolution Creatures",
+    "cost": 0,
+    "Cost": "",
+    "Civilisation": ""
+  },
+  "Dm01 019": {
+    "id": "Dm01 019",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "",
+        "type": "Spell",
+        "cost": 0,
+        "image": "https://img.duelmasters.us/0019.webp",
+        "isHorizontal": false
+      }
+    },
+    "name": "La Ura Giga, Sky Guardian",
+    "type": "Evolution Creatures",
+    "cost": 0,
+    "Cost": "",
+    "Civilisation": ""
+  },
+  "Dm01 020": {
+    "id": "Dm01 020",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "",
+        "type": "Spell",
+        "cost": 0,
+        "image": "https://img.duelmasters.us/0020.webp",
+        "isHorizontal": false
+      }
+    },
+    "name": "Lah, Purification Enforcer",
+    "type": "Evolution Creatures",
+    "cost": 0,
+    "Cost": "",
+    "Civilisation": ""
+  },
+  "Dm01 021": {
+    "id": "Dm01 021",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "",
+        "type": "Spell",
+        "cost": 0,
+        "image": "https://img.duelmasters.us/0021.webp",
+        "isHorizontal": false
+      }
+    },
+    "name": "Laser Wing",
+    "type": "Evolution Creatures",
+    "cost": 0,
+    "Cost": "",
+    "Civilisation": ""
+  },
+  "Dm01 022": {
+    "id": "Dm01 022",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "",
+        "type": "Spell",
+        "cost": 0,
+        "image": "https://img.duelmasters.us/0022.webp",
+        "isHorizontal": false
+      }
+    },
+    "name": "Lok, Vizier of Hunting",
+    "type": "Spell",
+    "cost": 0,
+    "Cost": "",
+    "Civilisation": ""
+  },
+  "Dm01 023": {
+    "id": "Dm01 023",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "",
+        "type": "Spell",
+        "cost": 0,
+        "image": "https://img.duelmasters.us/0023.webp",
+        "isHorizontal": false
+      }
+    },
+    "name": "Miele, Vizier of Lightning",
+    "type": "Spell",
+    "cost": 0,
+    "Cost": "",
+    "Civilisation": ""
+  },
+  "Dm01 024": {
+    "id": "Dm01 024",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "",
+        "type": "Spell",
+        "cost": 0,
+        "image": "https://img.duelmasters.us/0024.webp",
+        "isHorizontal": false
+      }
+    },
+    "name": "Moonlight Flash",
+    "type": "Spell",
+    "cost": 0,
+    "Cost": "",
+    "Civilisation": ""
+  },
+  "Dm01 025": {
+    "id": "Dm01 025",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "",
+        "type": "Spell",
+        "cost": 0,
+        "image": "https://img.duelmasters.us/0025.webp",
+        "isHorizontal": false
+      }
+    },
+    "name": "Rayla, Truth Enforcer",
+    "type": "Spell",
+    "cost": 0,
+    "Cost": "",
+    "Civilisation": ""
+  },
+  "Dm01 026": {
+    "id": "Dm01 026",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "",
+        "type": "Spell",
+        "cost": 0,
+        "image": "https://img.duelmasters.us/0026.webp",
+        "isHorizontal": false
+      }
+    },
+    "name": "Reusol, the Oracle",
+    "type": "Spell",
+    "cost": 0,
+    "Cost": "",
+    "Civilisation": ""
+  },
+  "Dm01 027": {
+    "id": "Dm01 027",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "",
+        "type": "Spell",
+        "cost": 0,
+        "image": "https://img.duelmasters.us/0027.webp",
+        "isHorizontal": false
+      }
+    },
+    "name": "Ruby Grass",
+    "type": "Spell",
+    "cost": 0,
+    "Cost": "",
+    "Civilisation": ""
+  },
+  "Dm01 028": {
+    "id": "Dm01 028",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "",
+        "type": "Spell",
+        "cost": 0,
+        "image": "https://img.duelmasters.us/0028.webp",
+        "isHorizontal": false
+      }
+    },
+    "name": "Senatine Jade Tree",
+    "type": "Spell",
+    "cost": 0,
+    "Cost": "",
+    "Civilisation": ""
+  },
+  "Dm01 029": {
+    "id": "Dm01 029",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "",
+        "type": "Spell",
+        "cost": 0,
+        "image": "https://img.duelmasters.us/0029.webp",
+        "isHorizontal": false
+      }
+    },
+    "name": "Solar Ray",
+    "type": "Spell",
+    "cost": 0,
+    "Cost": "",
+    "Civilisation": ""
+  },
+  "Dm01 030": {
+    "id": "Dm01 030",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "",
+        "type": "Spell",
+        "cost": 0,
+        "image": "https://img.duelmasters.us/0030.webp",
+        "isHorizontal": false
+      }
+    },
+    "name": "Sonic Wing",
+    "type": "Spell",
+    "cost": 0,
+    "Cost": "",
+    "Civilisation": ""
+  },
+  "Dm01 031": {
+    "id": "Dm01 031",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "",
+        "type": "Spell",
+        "cost": 0,
+        "image": "https://img.duelmasters.us/0031.webp",
+        "isHorizontal": false
+      }
+    },
+    "name": "Szubs Kin, Twilight Guardian",
+    "type": "Spell",
+    "cost": 0,
+    "Cost": "",
+    "Civilisation": ""
+  },
+  "Dm01 032": {
+    "id": "Dm01 032",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "",
+        "type": "Spell",
+        "cost": 0,
+        "image": "https://img.duelmasters.us/0032.webp",
+        "isHorizontal": false
+      }
+    },
+    "name": "Toel, Vizier of Hope",
+    "type": "Spell",
+    "cost": 0,
+    "Cost": "",
+    "Civilisation": ""
+  },
+  "Dm01 033": {
+    "id": "Dm01 033",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "",
+        "type": "Spell",
+        "cost": 0,
+        "image": "https://img.duelmasters.us/0033.webp",
+        "isHorizontal": false
+      }
+    },
+    "name": "Aqua Hulcus",
+    "type": "Spell",
+    "cost": 0,
+    "Cost": "",
+    "Civilisation": ""
+  },
+  "Dm01 034": {
+    "id": "Dm01 034",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "",
+        "type": "Spell",
+        "cost": 0,
+        "image": "https://img.duelmasters.us/0034.webp",
+        "isHorizontal": false
+      }
+    },
+    "name": "Aqua Knight",
+    "type": "Spell",
+    "cost": 0,
+    "Cost": "",
+    "Civilisation": ""
+  },
+  "Dm01 035": {
+    "id": "Dm01 035",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "",
+        "type": "Spell",
+        "cost": 0,
+        "image": "https://img.duelmasters.us/0035.webp",
+        "isHorizontal": false
+      }
+    },
+    "name": "Aqua Soldier",
+    "type": "Spell",
+    "cost": 0,
+    "Cost": "",
+    "Civilisation": ""
+  },
+  "DmCustom Alex": {
+    "id": "DmCustom Alex",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "",
+        "type": "Spell",
+        "cost": 0,
+        "image": "https://media.discordapp.net/attachments/1449382269222391808/1457500513867399262/Chat_Bahamut_Eveille_.png?ex=69a6b761&is=69a565e1&hm=83b67952983bddd5c3e32f7fb3c6be55a21228eebd9b113a6b1e2ec142ffa4e9&=&format=webp&quality=lossless&width=631&height=881",
+        "isHorizontal": false
+      }
+    },
+    "name": "Awakened Bahamut Cat",
+    "type": "Spell",
+    "cost": 0,
+    "Cost": "",
+    "Civilisation": ""
+  },
+  "DmCustom Alex 2": {
+    "id": "DmCustom Alex 2",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "",
+        "type": "Spell",
+        "cost": 0,
+        "image": "https://media.discordapp.net/attachments/1449382269222391808/1457668325776687115/Chat_Voleur_Fantome.png?ex=69a6aaeb&is=69a5596b&hm=c5b6ce1e581dd1a2874d2deca6c6c342adce3ac1fbe50144efc80f3e0d90a3b2&=&format=webp&quality=lossless&width=631&height=881",
+        "isHorizontal": false
+      }
+    },
+    "name": "Ghost Thief  Cat",
+    "type": "Spell",
+    "cost": 0,
+    "Cost": "",
+    "Civilisation": ""
+  },
+  "DmCustom Alex 3": {
+    "id": "DmCustom Alex 3",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "",
+        "type": "Spell",
+        "cost": 0,
+        "image": "https://media.discordapp.net/attachments/1449382269222391808/1449382269386231860/Geometruve_ExE.jpg?ex=69a6d86d&is=69a586ed&hm=549c9af79a5c1ea93ae1a6fd4bec018a7d02d72c144934b05ac90aac47df30ec&=&format=webp",
+        "isHorizontal": false
+      }
+    },
+    "name": "Geometruve",
+    "type": "Spell",
+    "cost": 0,
+    "Cost": "",
+    "Civilisation": ""
+  },
+  "Dm01 036": {
+    "id": "Dm01 036",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "",
+        "type": "Spell",
+        "cost": 0,
+        "image": "https://img.duelmasters.us/0036.webp",
+        "isHorizontal": false
+      }
+    },
+    "name": "Aqua Vehicle",
+    "type": "Spell",
+    "cost": 0,
+    "Cost": "",
+    "Civilisation": ""
+  },
+  "Dm01 037": {
+    "id": "Dm01 037",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "",
+        "type": "Spell",
+        "cost": 0,
+        "image": "https://img.duelmasters.us/0037.webp",
+        "isHorizontal": false
+      }
+    },
+    "name": "Brain Serum",
+    "type": "Spell",
+    "cost": 0,
+    "Cost": "",
+    "Civilisation": ""
+  },
+  "DmCustom Alex 4": {
+    "id": "DmCustom Alex 4",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "",
+        "type": "Spell",
+        "cost": 0,
+        "image": "https://media.discordapp.net/attachments/1458017845312094382/1458018290369560761/Blue_Eyes_White_Dragon__1.png?ex=69a69f59&is=69a54dd9&hm=f50e33afa1288aca81274c2df96d68f16e0a5a1c9b7045096e184dca5e7999ca&=&format=webp&quality=lossless",
+        "isHorizontal": false
+      }
+    },
+    "name": "Blues eyes White Dragon",
+    "type": "Spell",
+    "cost": 0,
+    "Cost": "",
+    "Civilisation": ""
+  },
+  "DmCustom Alex 5": {
+    "id": "DmCustom Alex 5",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "",
+        "type": "Spell",
+        "cost": 0,
+        "image": "https://cdn.discordapp.com/attachments/1458017845312094382/1458017845710684221/Avatar_of_the_pot.png?ex=69a69eef&is=69a54d6f&hm=704cae471c8892b13206191746b8aea08f40a554a5434d3724d5f5be6a6f3db1",
+        "isHorizontal": false
+      }
+    },
+    "name": "Avatar Of The Pot",
+    "type": "Spell",
+    "cost": 0,
+    "Cost": "",
+    "Civilisation": ""
+  },
+  "DmCustom Alex 6 ": {
+    "id": "DmCustom Alex 6 ",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "",
+        "type": "Spell",
+        "cost": 0,
+        "image": "https://media.discordapp.net/attachments/1449379097212883064/1449379097594560522/Le_Point.jpg?ex=69a6d579&is=69a583f9&hm=bba968ab04b23239317cfab412526be3547cac5206e19f2adecc88c628edba59&=&format=webp",
+        "isHorizontal": false
+      }
+    },
+    "name": "The Dot",
+    "type": "Spell",
+    "cost": 0,
+    "Cost": "",
+    "Civilisation": ""
+  },
+  "DmCustom Alex 7": {
+    "id": "DmCustom Alex 7",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "",
+        "type": "Spell",
+        "cost": 0,
+        "image": "https://media.discordapp.net/attachments/1363149887893405746/1364158467887333386/Pot_of_Greed_.jpg?ex=69a69e13&is=69a54c93&hm=c886a028398530d07736775e060f8668f96340c8d7aaf78b0d82f118c442d40f&=&format=webp&width=631&height=881",
+        "isHorizontal": false
+      }
+    },
+    "name": "Pot of Greed ",
+    "type": "Spell",
+    "cost": 0,
+    "Cost": "",
+    "Civilisation": ""
+  },
+  "DmCustom Alex 8": {
+    "id": "DmCustom Alex 8",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "",
+        "type": "Spell",
+        "cost": 0,
+        "image": "https://media.discordapp.net/attachments/1363149887893405746/1363153434181767320/Star_Eater_Dragios_Magnum_.jpg?ex=69a6ea90&is=69a59910&hm=4c83916b809c61907b06ef0b4543ec47cc381b8f0395341196e8d30d60d12330&=&format=webp&width=631&height=881",
+        "isHorizontal": false
+      }
+    },
+    "name": "Star Eater dragios Magnum",
+    "type": "Spell",
+    "cost": 0,
+    "Cost": "",
+    "Civilisation": ""
+  },
+  "DmCustom Alex 9": {
+    "id": "DmCustom Alex 9",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "",
+        "type": "Spell",
+        "cost": 0,
+        "image": "https://media.discordapp.net/attachments/1363149887893405746/1363193593241665737/The_Calculator.jpg?ex=69a66737&is=69a515b7&hm=c30ab0b5d55b1ca88b4d589c0f6642876ad7b8d62b8ee82edf89ceb1200d248a&=&format=webp&width=631&height=881",
+        "isHorizontal": false
+      }
+    },
+    "name": "The calculator",
+    "type": "Spell",
+    "cost": 0,
+    "Cost": "",
+    "Civilisation": ""
+  },
+  "Dmr03 ": {
+    "id": "Dmr03 ",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "",
+        "type": "Spell",
+        "cost": 0,
+        "image": "https://media.discordapp.net/attachments/1358429795528081749/1358494964535005486/Kou1__1.jpg?ex=69a672c7&is=69a52147&hm=4ddb92de0f88d6305f195189e54549973f3accf11e58c84ea07140666c7646b1&=&format=webp&width=631&height=881",
+        "isHorizontal": false
+      }
+    },
+    "name": "holy land rebrith",
+    "type": "Spell",
+    "cost": 0,
+    "Cost": "",
+    "Civilisation": ""
+  },
+  "Dm01 038": {
+    "id": "Dm01 038",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "",
+        "type": "Spell",
+        "cost": 0,
+        "image": "https://img.duelmasters.us/0038.webp",
+        "isHorizontal": false
+      }
+    },
+    "name": "Candy Drop",
+    "type": "Spell",
+    "cost": 0,
+    "Cost": "",
+    "Civilisation": ""
+  },
+  "Dm01 039": {
+    "id": "Dm01 039",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "",
+        "type": "Spell",
+        "cost": 0,
+        "image": "https://img.duelmasters.us/0039.webp",
+        "isHorizontal": false
+      }
+    },
+    "name": "Crystal Memory",
+    "type": "Spell",
+    "cost": 0,
+    "Cost": "",
+    "Civilisation": ""
+  },
+  "Dm01 040": {
+    "id": "Dm01 040",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "",
+        "type": "Spell",
+        "cost": 0,
+        "image": "https://img.duelmasters.us/0040.webp",
+        "isHorizontal": false
+      }
+    },
+    "name": "Faerie Child",
+    "type": "Spell",
+    "cost": 0,
+    "Cost": "",
+    "Civilisation": ""
+  },
+  "Dm01 041": {
+    "id": "Dm01 041",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "",
+        "type": false,
+        "cost": 0,
+        "image": "https://img.duelmasters.us/0041.webp",
+        "isHorizontal": false
+      }
+    },
+    "name": "Hunter Fish",
+    "type": false,
+    "cost": 0,
+    "Cost": "",
+    "Civilisation": ""
+  },
+  "Dm01 042": {
+    "id": "Dm01 042",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "",
+        "type": false,
+        "cost": 0,
+        "image": "https://img.duelmasters.us/0042.webp",
+        "isHorizontal": false
+      }
+    },
+    "name": "Illusionary Merfolk",
+    "type": false,
+    "cost": 0,
+    "Cost": "",
+    "Civilisation": ""
+  },
+  "Dm01 043": {
+    "id": "Dm01 043",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "",
+        "type": false,
+        "cost": 0,
+        "image": "https://img.duelmasters.us/0043.webp",
+        "isHorizontal": false
+      }
+    },
+    "name": "King Coral",
+    "type": false,
+    "cost": 0,
+    "Cost": "",
+    "Civilisation": ""
+  },
+  "Dm01 044": {
+    "id": "Dm01 044",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "",
+        "type": false,
+        "cost": 0,
+        "image": "https://img.duelmasters.us/0044.webp",
+        "isHorizontal": false
+      }
+    },
+    "name": "King Ripped-Hide",
+    "type": false,
+    "cost": 0,
+    "Cost": "",
+    "Civilisation": ""
+  },
+  "Dm01 045": {
+    "id": "Dm01 045",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "",
+        "type": false,
+        "cost": 0,
+        "image": "https://img.duelmasters.us/0045.webp",
+        "isHorizontal": false
+      }
+    },
+    "name": "Marine Flower",
+    "type": false,
+    "cost": 0,
+    "Cost": "",
+    "Civilisation": ""
+  },
+  "Dm01 046": {
+    "id": "Dm01 046",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "",
+        "type": false,
+        "cost": 0,
+        "image": "https://img.duelmasters.us/0046.webp",
+        "isHorizontal": false
+      }
+    },
+    "name": "Phantom Fish",
+    "type": false,
+    "cost": 0,
+    "Cost": "",
+    "Civilisation": ""
+  },
+  "Dm01 047": {
+    "id": "Dm01 047",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "",
+        "type": false,
+        "cost": 0,
+        "image": "https://img.duelmasters.us/0047.webp",
+        "isHorizontal": false
+      }
+    },
+    "name": "Revolver Fish",
+    "type": false,
+    "cost": 0,
+    "Cost": "",
+    "Civilisation": ""
+  },
+  "Dm01 048": {
+    "id": "Dm01 048",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "",
+        "type": false,
+        "cost": 0,
+        "image": "https://img.duelmasters.us/0048.webp",
+        "isHorizontal": false
+      }
+    },
+    "name": "Saucer-Head Shark",
+    "type": false,
+    "cost": 0,
+    "Cost": "",
+    "Civilisation": ""
+  },
+  "Dm01 049": {
+    "id": "Dm01 049",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "",
+        "type": false,
+        "cost": 0,
+        "image": "https://img.duelmasters.us/0049.webp",
+        "isHorizontal": false
+      }
+    },
+    "name": "Seamine",
+    "type": false,
+    "cost": 0,
+    "Cost": "",
+    "Civilisation": ""
+  },
+  "Dm01 050": {
+    "id": "Dm01 050",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "",
+        "type": false,
+        "cost": 0,
+        "image": "https://img.duelmasters.us/0050.webp",
+        "isHorizontal": false
+      }
+    },
+    "name": "Spiral Gate",
+    "type": false,
+    "cost": 0,
+    "Cost": "",
+    "Civilisation": ""
+  },
+  "Dm01 051": {
+    "id": "Dm01 051",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "",
+        "type": false,
+        "cost": 0,
+        "image": "https://img.duelmasters.us/0051.webp",
+        "isHorizontal": false
+      }
+    },
+    "name": "Teleportation",
+    "type": false,
+    "cost": 0,
+    "Cost": "",
+    "Civilisation": ""
+  },
+  "Dm01 052": {
+    "id": "Dm01 052",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "",
+        "type": false,
+        "cost": 0,
+        "image": "https://img.duelmasters.us/0052.webp",
+        "isHorizontal": false
+      }
+    },
+    "name": "Tropico",
+    "type": false,
+    "cost": 0,
+    "Cost": "",
+    "Civilisation": ""
+  },
+  "Dm01 053": {
+    "id": "Dm01 053",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "",
+        "type": false,
+        "cost": 0,
+        "image": "https://img.duelmasters.us/0053.webp",
+        "isHorizontal": false
+      }
+    },
+    "name": "Unicorn Fish",
+    "type": false,
+    "cost": 0,
+    "Cost": "",
+    "Civilisation": ""
+  },
+  "Dm01 054": {
+    "id": "Dm01 054",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "",
+        "type": false,
+        "cost": 0,
+        "image": "https://img.duelmasters.us/0054.webp",
+        "isHorizontal": false
+      }
+    },
+    "name": "Virtual Tripwire",
+    "type": false,
+    "cost": 0,
+    "Cost": "",
+    "Civilisation": ""
+  },
+  "Dm01 055": {
+    "id": "Dm01 055",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "",
+        "type": false,
+        "cost": 0,
+        "image": "https://img.duelmasters.us/0055.webp",
+        "isHorizontal": false
+      }
+    },
+    "name": "Black Feather, Shadow of Rage",
+    "type": false,
+    "cost": 0,
+    "Cost": "",
+    "Civilisation": ""
+  },
+  "Dm01 056": {
+    "id": "Dm01 056",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "",
+        "type": false,
+        "cost": 0,
+        "image": "https://img.duelmasters.us/0056.webp",
+        "isHorizontal": false
+      }
+    },
+    "name": "Bloody Squito",
+    "type": false,
+    "cost": 0,
+    "Cost": "",
+    "Civilisation": ""
+  },
+  "Dm01 057": {
+    "id": "Dm01 057",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "",
+        "type": false,
+        "cost": 0,
+        "image": "https://img.duelmasters.us/0057.webp",
+        "isHorizontal": false
+      }
+    },
+    "name": "Bone Assassin, the Ripper",
+    "type": false,
+    "cost": 0,
+    "Cost": "",
+    "Civilisation": ""
+  },
+  "Dm01 058": {
+    "id": "Dm01 058",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "",
+        "type": false,
+        "cost": 0,
+        "image": "https://img.duelmasters.us/0058.webp",
+        "isHorizontal": false
+      }
+    },
+    "name": "Bone Spider",
+    "type": false,
+    "cost": 0,
+    "Cost": "",
+    "Civilisation": ""
+  },
+  "Dm01 059": {
+    "id": "Dm01 059",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "",
+        "type": false,
+        "cost": 0,
+        "image": "https://img.duelmasters.us/0059.webp",
+        "isHorizontal": false
+      }
+    },
+    "name": "Creeping Plague",
+    "type": false,
+    "cost": 0,
+    "Cost": "",
+    "Civilisation": ""
+  },
+  "Dm01 060": {
+    "id": "Dm01 060",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "",
+        "type": false,
+        "cost": 0,
+        "image": "https://img.duelmasters.us/0060.webp",
+        "isHorizontal": false
+      }
+    },
+    "name": "Dark Clown",
+    "type": false,
+    "cost": 0,
+    "Cost": "",
+    "Civilisation": ""
+  },
+  "Dm01 061": {
+    "id": "Dm01 061",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "",
+        "type": false,
+        "cost": 0,
+        "image": "https://img.duelmasters.us/0061.webp",
+        "isHorizontal": false
+      }
+    },
+    "name": "Dark Raven, Shadow of Grief",
+    "type": false,
+    "cost": 0,
+    "Cost": "",
+    "Civilisation": ""
+  },
+  "Dm01 062": {
+    "id": "Dm01 062",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "",
+        "type": false,
+        "cost": 0,
+        "image": "https://img.duelmasters.us/0062.webp",
+        "isHorizontal": false
+      }
+    },
+    "name": "Dark Reversal",
+    "type": false,
+    "cost": 0,
+    "Cost": "",
+    "Civilisation": ""
+  },
+  "Dm01 063": {
+    "id": "Dm01 063",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "",
+        "type": false,
+        "cost": 0,
+        "image": "https://img.duelmasters.us/0063.webp",
+        "isHorizontal": false
+      }
+    },
+    "name": "Death Smoke",
+    "type": false,
+    "cost": 0,
+    "Cost": "",
+    "Civilisation": ""
+  },
+  "Dm01 064": {
+    "id": "Dm01 064",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "",
+        "type": false,
+        "cost": 0,
+        "image": "https://img.duelmasters.us/0064.webp",
+        "isHorizontal": false
+      }
+    },
+    "name": "Ghost Touch",
+    "type": false,
+    "cost": 0,
+    "Cost": "",
+    "Civilisation": ""
+  },
+  "Dm01 065": {
+    "id": "Dm01 065",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "",
+        "type": false,
+        "cost": 0,
+        "image": "https://img.duelmasters.us/0065.webp",
+        "isHorizontal": false
+      }
+    },
+    "name": "Gigaberos",
+    "type": false,
+    "cost": 0,
+    "Cost": "",
+    "Civilisation": ""
+  },
+  "Dm01 066": {
+    "id": "Dm01 066",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "",
+        "type": false,
+        "cost": 0,
+        "image": "https://img.duelmasters.us/0066.webp",
+        "isHorizontal": false
+      }
+    },
+    "name": "Gigagiele",
+    "type": false,
+    "cost": 0,
+    "Cost": "",
+    "Civilisation": ""
+  },
+  "Dm01 067": {
+    "id": "Dm01 067",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "",
+        "type": false,
+        "cost": 0,
+        "image": "https://img.duelmasters.us/0067.webp",
+        "isHorizontal": false
+      }
+    },
+    "name": "Gigargon",
+    "type": false,
+    "cost": 0,
+    "Cost": "",
+    "Civilisation": ""
+  },
+  "Dm01 068": {
+    "id": "Dm01 068",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "",
+        "type": false,
+        "cost": 0,
+        "image": "https://img.duelmasters.us/0068.webp",
+        "isHorizontal": false
+      }
+    },
+    "name": "Masked Horror, Shadow of Scorn",
+    "type": false,
+    "cost": 0,
+    "Cost": "",
+    "Civilisation": ""
+  },
+  "Dm01 069": {
+    "id": "Dm01 069",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "",
+        "type": false,
+        "cost": 0,
+        "image": "https://img.duelmasters.us/0069.webp",
+        "isHorizontal": false
+      }
+    },
+    "name": "Night Master, Shadow of Decay",
+    "type": false,
+    "cost": 0,
+    "Cost": "",
+    "Civilisation": ""
+  },
+  "Dm01 070": {
+    "id": "Dm01 070",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "",
+        "type": false,
+        "cost": 0,
+        "image": "https://img.duelmasters.us/0070.webp",
+        "isHorizontal": false
+      }
+    },
+    "name": "Skeleton Soldier, the Defiled",
+    "type": false,
+    "cost": 0,
+    "Cost": "",
+    "Civilisation": ""
+  },
+  "Dm01 071": {
+    "id": "Dm01 071",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "",
+        "type": false,
+        "cost": 0,
+        "image": "https://img.duelmasters.us/0071.webp",
+        "isHorizontal": false
+      }
+    },
+    "name": "Stinger Worm",
+    "type": false,
+    "cost": 0,
+    "Cost": "",
+    "Civilisation": ""
+  },
+  "Dm01 072": {
+    "id": "Dm01 072",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "",
+        "type": false,
+        "cost": 0,
+        "image": "https://img.duelmasters.us/0072.webp",
+        "isHorizontal": false
+      }
+    },
+    "name": "Swamp Worm",
+    "type": false,
+    "cost": 0,
+    "Cost": "",
+    "Civilisation": ""
+  },
+  "Dm01 073": {
+    "id": "Dm01 073",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "",
+        "type": false,
+        "cost": 0,
+        "image": "https://img.duelmasters.us/0073.webp",
+        "isHorizontal": false
+      }
+    },
+    "name": "Terror Pit",
+    "type": false,
+    "cost": 0,
+    "Cost": "",
+    "Civilisation": ""
+  },
+  "Dm01 074": {
+    "id": "Dm01 074",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "",
+        "type": false,
+        "cost": 0,
+        "image": "https://img.duelmasters.us/0074.webp",
+        "isHorizontal": false
+      }
+    },
+    "name": "Vampire Silphy",
+    "type": false,
+    "cost": 0,
+    "Cost": "",
+    "Civilisation": ""
+  }
+}
