@@ -52,10 +52,11 @@
         0
       ],
       "hideFacedDownCards": false,
-      "sections": {
-        "customSections": [
-          "Mana"
-        ],
+    "sections": {
+  "customSections": [
+    "Mana"
+  ],
+},
       "hideFacedDownCards": true,
       "sections": {
         "customSections": [    
