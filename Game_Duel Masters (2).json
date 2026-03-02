@@ -17,6 +17,7 @@
   "deckBuilding": {
     "mainFilters": [
       "Creatures",
+      "Evolution creatures",
       "Spell"
     ],
     "formats": []
@@ -27,8 +28,17 @@
         "info": "",
         "startingHandSize": "5",
         "drawNewHand": true,
-        "putSelectionAtBottom": false,
+        "putSelectionAtBottom": true,
         "drawNewSelectedCards": false
+         ],
+      "beforeGameStart": {
+        "initialBoardSetup": [
+          {
+            "drawFromTop": "deck",
+            "count": 5,
+            "destination": "shield zone"
+          }
+        ]
       },
       "newTurn": {
         "drawOnStart": false,
@@ -44,7 +54,11 @@
       "hideFacedDownCards": false,
       "sections": {
         "customSections": [
-          "Mana",
+          "Mana"
+        ],
+      "hideFacedDownCards": true,
+      "sections": {
+        "customSections": [    
           "Shield"
         ],
         "layout": {
