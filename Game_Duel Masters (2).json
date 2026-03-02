@@ -1,0 +1,90 @@
+{
+  "name": "Duel Masters",
+  "menuBackgroundImage": "https://static.wikia.nocookie.net/duelmastersplays/images/3/36/Duel_Masters_PLAY%27S_Visual_Custom.png/revision/latest/scale-to-width-down/1000?cb=20220406063103",
+  "defaultRessources": {
+    "backgrounds": [
+      "https://static.wikia.nocookie.net/duelmastersplays/images/3/36/Duel_Masters_PLAY%27S_Visual_Custom.png/revision/latest/scale-to-width-down/1000?cb=20220406063103",
+      ""
+    ],
+    "decksUrl": ""
+  },
+  "customHelp": "",
+  "cardRotation": "90",
+  "cards": {
+    "dataUrl": "",
+    "cardBack": ""
+  },
+  "deckBuilding": {
+    "mainFilters": [
+      "Creatures",
+      "Spell"
+    ],
+    "formats": []
+  },
+  "gameplay": {
+    "Classic": {
+      "mulligan": {
+        "info": "",
+        "startingHandSize": "5",
+        "drawNewHand": true,
+        "putSelectionAtBottom": false,
+        "drawNewSelectedCards": false
+      },
+      "newTurn": {
+        "drawOnStart": false,
+        "sharedTurn": false,
+        "firstPlayerTokenName": "",
+        "drawPerTurn": 1
+      },
+      "defaultNotes": "",
+      "tokens": [],
+      "countersStartingValues": [
+        0
+      ],
+      "hideFacedDownCards": false,
+      "sections": {
+        "customSections": [
+          "Mana",
+          "Shield"
+        ],
+        "layout": {
+          "direction": "column",
+          "isSymetricalForOpponents": false,
+          "content": [
+            {
+              "section": "Battlefield",
+              "style": false
+            },
+            {
+              "section": "Shield zone",
+              "style": false
+            }
+          ]
+        },
+        "categoriesAlreadyOnBoard": [
+          "deck"
+        ],
+        "autoPlayFromHand": {},
+        "autoPlayFromStack": {},
+        "sectionsDict": {
+          "Mana": {
+            "title": "Mana",
+            "isHidden": "yes",
+            "height": "SMALL",
+            "alignment": "START",
+            "opponentAlignment": false,
+            "noAutoPayTo": "true",
+            "isHorizontalAllowed": false,
+            "displayedTitle": "Ressources",
+            "enterTapped": false,
+            "enterSpun": true,
+            "isGroupForbidden": false,
+            "keepTappedNewTurn": false,
+            "showHiddenCardInHistory": false,
+            "noQuickActions": false
+          }
+        }
+      }
+    }
+  }
+}
