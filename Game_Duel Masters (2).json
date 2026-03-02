@@ -30,7 +30,7 @@
         "drawNewHand": true,
         "putSelectionAtBottom": true,
         "drawNewSelectedCards": false
-    ],
+     ],
       "beforeGameStart": {
         "initialBoardSetup": [
           {
