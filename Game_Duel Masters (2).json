@@ -11,7 +11,7 @@
   "customHelp": "",
   "cardRotation": "90",
   "cards": {
-    "dataUrl": "https://raw.githubusercontent.com/alotox5-oss/Duel-Masters-TCGA/main/CardList%20(4).json",
+    "dataUrl": "https://raw.githubusercontent.com/alotox5-oss/Duel-Masters-TCGA/main/CardList%20(6).json",
     "cardBack": "https://upload.wikimedia.org/wikipedia/en/thumb/b/b2/Duel_Masters_cardback.jpg/250px-Duel_Masters_cardback.jpg"
   },
   "deckBuilding": {
