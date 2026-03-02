@@ -19,7 +19,7 @@
       "Creatures",
       "Evolution creatures",
       "Spell"
-    ],
+    ,]
     "formats": []
   },
   "gameplay": {
@@ -29,8 +29,8 @@
         "startingHandSize": "5",
         "drawNewHand": true,
         "putSelectionAtBottom": true,
-        "drawNewSelectedCards": false
-     ],
+        "drawNewSelectedCards": false 
+  },
       "beforeGameStart": {
         "initialBoardSetup": [
           {
